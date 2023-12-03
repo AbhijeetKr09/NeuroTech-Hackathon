@@ -52,14 +52,3 @@ The application includes two filter classes:
 
 You can customize the filters by modifying the filter coefficients according to your requirements. The `iirfilter` function from SciPy's signal processing module can be used to design the filters.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests with improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Please note that this README is a general guide. You may need to add specific instructions based on the full functionality of your application and any additional files included in your repository.
