@@ -15,8 +15,10 @@ This repository contains the codebase for the Neuphony Dino Game, a project focu
 
 ## Synapse Module Overview
 ## Image
-![Neuphony Synapse](![image](https://github.com/AbhijeetKr09/NeuroTech-Hackathon/assets/117449002/5ef4741b-8f85-47b1-b700-325e36b26e46)
-)
+<div style="text-align:center;">
+    <img src="https://github.com/AbhijeetKr09/NeuroTech-Hackathon/assets/117449002/5ef4741b-8f85-47b1-b700-325e36b26e46" alt="Neuphony Synapse">
+</div>
+
 The project incorporates Neuphony Synapse, a versatile solution for various physiological monitoring applications. It supports ECG, EEG, EOG, and EMG signals, ensuring compatibility with different platforms like Arduino, ESP32, STM32, and more. The optional bypass of the bandpass filter allows tailored signal output for diverse analysis.
 
 ## Project Components
